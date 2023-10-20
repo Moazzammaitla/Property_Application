@@ -1,6 +1,6 @@
-# Property_Application
+# Property Application
 
-Property Application is a mobile app that allows users to manage and browse property listings. It includes features like user registration and login, property listing, property filtering, and uses Room database, Coroutine, and Data Binding.
+Property Application is a mobile app that allows users to manage and browse property listings. It includes features like user registration and login, property listing, property filtering, and the ability to view user information and contact numbers. The app also utilizes Room database, Coroutine, and Data Binding.
 
 ## Table of Contents
 
@@ -10,6 +10,7 @@ Property Application is a mobile app that allows users to manage and browse prop
 - [Project Structure](#project-structure)
 - [Dependencies](#dependencies)
 - [Usage](#usage)
+- [User Information and Contact Numbers](#user-information-and-contact-numbers)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -18,6 +19,7 @@ Property Application is a mobile app that allows users to manage and browse prop
 - User registration and login functionality.
 - Add property listings.
 - View and filter property listings.
+- Access user information and contact numbers.
 - Uses Room database for data storage.
 - Implements Coroutines for asynchronous programming.
 - Utilizes Data Binding for UI.
