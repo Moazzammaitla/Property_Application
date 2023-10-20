@@ -85,8 +85,9 @@ Before you begin, ensure you have met the following requirements:
 
  <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/52151791-6257-46b9-ae87-870e64e183d8"  alt="All Images" width="300"/>
  <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/e198932c-1908-4fae-a9ce-825769072dda"  alt="All Images" width="300"/>
+  <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/57026256-71f6-402b-ac63-b463b16105d7"  alt="All Images" width="300"/>
   <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/bf046230-789a-48c6-8108-7b497b477a36"  alt="All Images" width="300"/>
-   <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/57026256-71f6-402b-ac63-b463b16105d7"  alt="All Images" width="300"/>
+  
 ## Getting Started
 
 1. Clone this repository to your local machine:
