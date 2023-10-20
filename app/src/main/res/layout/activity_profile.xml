@@ -1,0 +1,55 @@
+<!-- activity_profile.xml -->
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    tools:context=".ProfileActivity">
+
+    <!-- activity_profile.xml -->
+
+    <Button
+        android:id="@+id/showDataButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Show Data"
+        />
+
+    <Button
+        android:id="@+id/viewProfileButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Profile"
+        android:layout_below="@id/showDataButton"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/addpropertyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Add property"
+        android:layout_below="@id/viewProfileButton"
+        android:layout_marginTop="10dp"
+        />
+    <Button
+        android:id="@+id/veiwpropertyButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Veiw property"
+        android:layout_below="@id/addpropertyButton"
+        android:layout_marginTop="10dp"
+        />
+
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/userRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/veiwpropertyButton"
+        android:layout_marginTop="16dp"
+        />
+
+</RelativeLayout>
+

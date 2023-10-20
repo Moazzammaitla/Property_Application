@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/design_default_color_on_primary">
+
+    <!-- Add your splash screen content here, such as an ImageView with your logo -->
+    <ImageView
+        android:id="@+id/album_image"
+        android:layout_width="371dp"
+        android:layout_height="300dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="200dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:contentDescription="Album Cover"
+        android:src="@drawable/management" />
+</RelativeLayout>
