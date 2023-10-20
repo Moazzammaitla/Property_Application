@@ -1,5 +1,6 @@
 # Property Application
 
+
 Property Application is a mobile app that allows users to manage and browse property listings. It includes features like user registration and login, property listing, property filtering, and the ability to view user information and contact numbers. The app also utilizes Room database, Coroutine, and Data Binding.
 
 ## Table of Contents
