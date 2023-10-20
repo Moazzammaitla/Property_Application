@@ -17,13 +17,62 @@ Property Application is a mobile app that allows users to manage and browse prop
 
 ## Features
 
-- User registration and login functionality.
-- Add property listings.
-- View and filter property listings.
-- Access user information and contact numbers.
-- Uses Room database for data storage.
-- Implements Coroutines for asynchronous programming.
-- Utilizes Data Binding for UI.
+## User Registration and Login
+
+Allow users to register accounts and log in securely. Ensure user data is stored and managed using Room database.
+
+## Property Listing
+
+Enable users to add property listings to the app. Property details, images, and other relevant information can be entered.
+
+## Property Filtering
+
+Implement powerful property filtering functionality to help users find the properties that match their specific criteria.
+
+## User Information and Contact Numbers
+
+Provide access to user information, including names, email addresses, and more. Users can also view contact numbers to connect with property owners and agents.
+
+## Room Database Integration
+
+Store user and property data using the Room Persistence Library, ensuring efficient and reliable data management.
+
+## Coroutines
+
+Leverage Coroutines for handling asynchronous operations and improving app responsiveness.
+
+## Data Binding
+
+Enhance the user interface using Data Binding to streamline UI development and maintenance.
+
+## Prerequisites
+
+Before getting started with the app, ensure you have the required tools and environments installed.
+
+## Getting Started
+
+Clone the repository, open it in your preferred Android development environment, and run the app on a device or emulator to begin using its features.
+
+## Project Structure
+
+Understand the organization of the project, including the code structure, layout files, resource values, and more.
+
+## Dependencies
+
+Review the dependencies used in the project to better understand its functionality and requirements.
+
+## Usage
+
+Follow these instructions to make the most of the app, including registering and logging in, adding property listings, filtering properties, and exploring user information and contact details.
+
+## Contributing
+
+If you'd like to contribute to the app's development or add new features, please follow the provided contribution guidelines.
+
+## License
+
+This project is open source and is distributed under the MIT License, allowing you to use and modify the code as needed.
+
 
 ## Prerequisites
 
