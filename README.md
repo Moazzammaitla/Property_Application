@@ -81,12 +81,11 @@ Before you begin, ensure you have met the following requirements:
 - Android Studio or any other suitable Android development environment.
 - A device or emulator to run the app.
 
-  <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/ab6988af-390b-4481-b85a-d4d771fa22a2"  alt="All Images" width="300"/>
-
- <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/52151791-6257-46b9-ae87-870e64e183d8"  alt="All Images" width="300"/>
- <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/e198932c-1908-4fae-a9ce-825769072dda"  alt="All Images" width="300"/>
-  <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/57026256-71f6-402b-ac63-b463b16105d7"  alt="All Images" width="300"/>
-  <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/bf046230-789a-48c6-8108-7b497b477a36"  alt="All Images" width="300"/>
+<img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/ab6988af-390b-4481-b85a-d4d771fa22a2"  alt="All Images" width="300"/>
+<img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/52151791-6257-46b9-ae87-870e64e183d8"  alt="All Images" width="300"/>
+<img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/e198932c-1908-4fae-a9ce-825769072dda"  alt="All Images" width="300"/>
+<img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/57026256-71f6-402b-ac63-b463b16105d7"  alt="All Images" width="300"/>
+<img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/bf046230-789a-48c6-8108-7b497b477a36"  alt="All Images" width="300"/>
   
 ## Getting Started
 
