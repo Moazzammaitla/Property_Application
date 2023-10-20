@@ -81,6 +81,8 @@ Before you begin, ensure you have met the following requirements:
 - Android Studio or any other suitable Android development environment.
 - A device or emulator to run the app.
 
+  <img src="https://github.com/Moazzammaitla/Property_Application/assets/83607724/ab6988af-390b-4481-b85a-d4d771fa22a2"  alt="All Images" width="300"/>
+
 ## Getting Started
 
 1. Clone this repository to your local machine:
